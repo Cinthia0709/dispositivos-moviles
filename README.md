@@ -35,7 +35,7 @@ dispositivos-moviles/
 1. Descargar o clonar el repositorio:
 
 ```
-git clone https://github.com/TU-USUARIO/dispositivos-moviles
+git clone https://github.com/Cinthia0709/dispositivos-moviles.git
 ```
 
 2. Acceder a la carpeta del proyecto:
