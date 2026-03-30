@@ -56,7 +56,7 @@ java -jar programa.jar
 ## Repositorio
 
 Enlace del repositorio:
-https://github.com/TU-USUARIO/dispositivos-moviles
+https://github.com/Cinthia0709/dispositivos-moviles.git
 
 ## Notas
 
